@@ -67,3 +67,6 @@ add_subdirectory(common)
 
 # Add Assignment 2: 3D Kinetic Sculpture Animation
 add_subdirectory("Assignment_2:3D_kinetic_sculpture_animation")
+
+# Add Final Project
+add_subdirectory(Final_Project)
