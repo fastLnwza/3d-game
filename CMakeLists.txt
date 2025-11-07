@@ -66,7 +66,11 @@ endif()
 add_subdirectory(common)
 
 # Add Assignment 2: 3D Kinetic Sculpture Animation
-add_subdirectory("Assignment_2:3D_kinetic_sculpture_animation")
+# Commented out - directory does not exist
+# add_subdirectory("Assignment_2:3D_kinetic_sculpture_animation")
+
+# Add Assignment 3
+add_subdirectory("Assignment 3")
 
 # Add Final Project
 add_subdirectory(Final_Project)
