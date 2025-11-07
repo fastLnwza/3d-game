@@ -63,10 +63,12 @@ If you're running from Xcode or another IDE, you may need to set the working dir
 ### Screenshot
 ![Fox character in game](resource/result/Cat.png)
 
+[![View Screenshot](https://img.shields.io/badge/View-Screenshot-blue?style=for-the-badge)](resource/result/Cat.png)
+
 ### Gameplay Clip
-<video src="resource/result/Cat-2.mp4" width="640" controls>
-  Your browser does not support the video tag. You can download the clip <a href="resource/result/Cat-2.mp4">here</a>.
-</video>
+[![Watch Gameplay Clip](https://img.shields.io/badge/Watch-Gameplay%20Clip-red?style=for-the-badge&logo=youtube)](resource/result/Cat-2.mp4)
+
+> GitHub does not autoplay local videos, so use the button above to download or play the clip.
 
 ## Assets & Credits
 - Fox character model: ["PBR Low-poly Fox Character" by Ida Faber](https://sketchfab.com/3d-models/pbr-low-poly-fox-character-88ed6191446749b9a9e24b995bcb5e1d). Shared for free use via Sketchfab (see original page for details).
