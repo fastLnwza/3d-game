@@ -14,6 +14,8 @@ A collection of 3D graphics projects and assignments built with OpenGL and C++.
   </video>
 </p>
 
+**Asset credit:** ["PBR Low-poly Fox Character" by Ida Faber](https://sketchfab.com/3d-models/pbr-low-poly-fox-character-88ed6191446749b9a9e24b995bcb5e1d).
+
 📖 [Detailed Documentation](Assignment%203/README.md)
 
 ---

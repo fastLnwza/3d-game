@@ -68,6 +68,9 @@ If you're running from Xcode or another IDE, you may need to set the working dir
   Your browser does not support the video tag. You can download the clip <a href="resource/result/Cat-2.mp4">here</a>.
 </video>
 
+## Assets & Credits
+- Fox character model: ["PBR Low-poly Fox Character" by Ida Faber](https://sketchfab.com/3d-models/pbr-low-poly-fox-character-88ed6191446749b9a9e24b995bcb5e1d). Shared for free use via Sketchfab (see original page for details).
+
 ## Game Mechanics
 
 - The game starts with the player (fox) at the origin (0, 0, 0)
