@@ -72,5 +72,8 @@ add_subdirectory(common)
 # Add Assignment 3
 add_subdirectory("Assignment 3")
 
+# Add Assignment 4
+add_subdirectory(Assignment_4)
+
 # Add Final Project
 add_subdirectory(Final_Project)

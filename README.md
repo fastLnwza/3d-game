@@ -22,4 +22,22 @@ A collection of 3D graphics projects and assignments built with OpenGL and C++.
 
 ---
 
+### 📁 Assignment 4: Skeletal Animation Showcase
+<p>
+  <a href="Assignment_4/result/Boy.png">
+    <img src="Assignment_4/result/Boy.png" alt="Assignment 4 screenshot" width="420" />
+  </a>
+</p>
+
+[![View Screenshot](https://img.shields.io/badge/View-Screenshot-blue?style=for-the-badge)](Assignment_4/result/Boy.png)
+[![Watch Capture](https://img.shields.io/badge/Watch-Animation%20Capture-red?style=for-the-badge&logo=youtube)](Assignment_4/result/Boy.mp4)
+
+> This assignment demonstrates skeletal animation blending with Mixamo character data. Hotkeys let you swap between the Chicken Dance and Jump clips in real time.
+
+**Asset credit:** Mixamo character and animations (`Ch09_nonPBR`, `Chicken Dance`, `Jump`).
+
+📖 [Detailed Documentation](Assignment_4/README.md)
+
+---
+
 *3D Game Development | Computer Graphics Projects*
